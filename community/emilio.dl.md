@@ -16,4 +16,6 @@
 
 
 <h3 align="left">Technological tools used:</h3>
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+
